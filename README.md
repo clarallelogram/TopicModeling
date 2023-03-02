@@ -6,3 +6,7 @@ The first cell in the google colab notebook contain URLs for direct download of 
 Theory Notes: 
 
 This is a file that contains notes on the theoretical ideas behind topic modeling and how some of the algorithms discussed work as well as what computations occur behind the scenes. 
+
+Project Proposal (Revised Edition)
+
+This is a new project proposal different from the original intended idea and better-suited for beginner work in ML.
