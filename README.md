@@ -10,3 +10,5 @@ This is a file that contains notes on the theoretical ideas behind topic modelin
 Project Proposal (Revised Edition):
 
 This is a new project proposal different from the original intended idea and better-suited for beginner work in ML.
+
+The slideshow is currently being made and refined to be more visually-friendly 
