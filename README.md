@@ -1,8 +1,4 @@
 # MAIS-202-Final-Project: Topic Modeling Using LDA
-### Dataset Files:
-
-The first cell in the google colab notebook contain URLs for direct download of the CSV files of the dataset. These files must be downloaded and saved to one's google drive in a folder called "neurips_project". The file names should be "author_nips.csv" and "papers.csv". 
-
 ### Theory Notes: 
 
 This is a file that contains (messy) notes on the theory behind topic modeling and LDA 
